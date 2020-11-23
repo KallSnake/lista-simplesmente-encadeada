@@ -7,12 +7,13 @@ como sucessor.
 As listas são estruturas de dados complexas que podem ser trabalhadas sob três configurações
 distintas:
 
-• Lista simplesmente encadeada, que será estudada neste tópico.
-• Lista duplamente encadeada, que será estudada no segundo tópico.
+• Lista simplesmente encadeada, que será estudada neste tópico;
+• Lista duplamente encadeada, que será estudada no segundo tópico;
 • Lista circular, que será estudada no terceiro tópico.
 
 A lista simplesmente encadeada refere-se a uma sequência de nós em que cada nó
 possui armazenado certo dado e também o endereço do seguinte nó da lista,
+
 
 
 
